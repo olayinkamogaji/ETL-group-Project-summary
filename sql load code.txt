@@ -1,0 +1,30 @@
+select 
+		hy.*,
+		pct.id, 
+		ars.*,
+		ars.perp_race,
+		crj.id,
+		crj.synagogue_count,
+		crm.id,
+		crm.mosques_count,
+		pcz.id,
+		pcz.zipcode,
+		rcz.zipcode
+		
+	
+		
+from 
+		hatecrime_year hy
+join 
+		precincts pct on hy.id = pct.id
+join 
+		crimes_against_jews crj on crj.id = pct.id
+join
+		crimes_against_muslims crm on pct.id = crm.id	
+join 
+		arrest_1718 ars on pct.id = ars.precinct
+join
+		pct_zip pcz on pct.id = pcz.id
+join
+		race_zipcodes rcz on cast(pcz.zipcode as varchar) = rcz.zipcode
+

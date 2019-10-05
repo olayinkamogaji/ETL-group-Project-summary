@@ -1,0 +1,406 @@
+,Unnamed: 0,Precinct,Number,Gender,Race,Age,Bias-Motivation,Year,Quarter,Bias-Group
+0,0,6,1,Male,Hispanic,48,Anti-Asian,2017,1,Racial/Ethnicity/Ancestry Bias
+1,1,7,2,Male,White,29,Anti-Asian,2017,1,Racial/Ethnicity/Ancestry Bias
+2,2,7,3,Male,White,29,Anti-Asian,2017,1,Racial/Ethnicity/Ancestry Bias
+3,3,14,4,Male,Hispanic,64,Anti-Jewish,2017,1,Religious Bias
+4,4,14,5,Male,Hispanic,64,Anti-Jewish,2017,1,Religious Bias
+5,5,14,6,Male,Hispanic,64,Anti-Jewish,2017,1,Religious Bias
+6,6,14,7,Male,Hispanic,64,Anti-Jewish,2017,1,Religious Bias
+7,7,14,8,Male,Hispanic,64,Anti-Jewish,2017,1,Religious Bias
+8,8,14,9,Male,Hispanic,64,Anti-Jewish,2017,1,Religious Bias
+9,9,14,10,Male,Hispanic,64,Anti-Jewish,2017,1,Religious Bias
+10,10,14,11,Male,Hispanic,64,Anti-Jewish,2017,1,Religious Bias
+11,11,14,12,Male,White,26,Anti-Transgender,2017,1,Gender Identity Bias
+12,12,14,13,Male,White,28,Anti-Black,2017,1,Racial/Ethnicity/Ancestry Bias
+13,13,19,14,Male,White,53,Anti-Hispanic,2017,1,Racial/Ethnicity/Ancestry Bias
+14,14,20,15,Male,Hispanic,22,Anti-White,2017,1,Racial/Ethnicity/Ancestry Bias
+15,15,22,16,Male,White,33,Anti-Black,2017,1,Racial/Ethnicity/Ancestry Bias
+16,16,52,17,Male,Black,40,Anti-Male Homosexual (Gay),2017,1,Sexual Orientation Bias
+17,17,61,18,Male,White,25,Anti-Black,2017,1,Racial/Ethnicity/Ancestry Bias
+18,18,61,19,Male,Black,16,Anti-Hispanic,2017,1,Racial/Ethnicity/Ancestry Bias
+19,19,71,20,Male,Black,11,Anti-Jewish,2017,1,Religious Bias
+20,20,71,21,Male,Black,11,Anti-Jewish,2017,1,Religious Bias
+21,21,75,22,Male,Black,28,Anti-Hispanic,2017,1,Racial/Ethnicity/Ancestry Bias
+22,22,79,23,Male,Black,32,Anti-Male Homosexual (Gay),2017,1,Sexual Orientation Bias
+23,23,79,24,Male,Black,32,Anti-Male Homosexual (Gay),2017,1,Sexual Orientation Bias
+24,24,84,25,Male,White,36,Anti-Black,2017,1,Racial/Ethnicity/Ancestry Bias
+25,25,88,26,Male,Hispanic,60,Anti-Male Homosexual (Gay),2017,1,Sexual Orientation Bias
+26,26,94,27,Male,Hispanic,32,Anti-Male Homosexual (Gay),2017,1,Sexual Orientation Bias
+27,27,107,28,Male,Hispanic,28,Anti-Asian,2017,1,Racial/Ethnicity/Ancestry Bias
+28,28,113,29,Male,White,57,Anti-Islamic (Muslim),2017,1,Religious Bias
+29,29,115,30,Male,Hispanic,38,Anti-Male Homosexual (Gay),2017,1,Sexual Orientation Bias
+30,30,115,31,Male,Hispanic,38,Anti-Female Homosexual (Lesbian),2017,1,Sexual Orientation Bias
+31,31,120,32,Female,White,38,Anti-Black,2017,1,Racial/Ethnicity/Ancestry Bias
+32,32,120,33,Female,White,38,Anti-Black,2017,1,Racial/Ethnicity/Ancestry Bias
+33,33,120,34,Female,White,38,Anti-Black,2017,1,Racial/Ethnicity/Ancestry Bias
+34,34,6,1,Male,White,59,Anti-Black,2017,2,Racial/Ethnicity/Ancestry Bias
+35,35,7,2,Male,White,23,Anti-Black,2017,2,Racial/Ethnicity/Ancestry Bias
+36,36,7,3,Male,Black,25,Anti-Islamic (Muslim),2017,2,Religious Bias
+37,37,7,4,Male,White,23,Anti-Black,2017,2,Racial/Ethnicity/Ancestry Bias
+38,38,7,5,Male,White,21,Anti-Black,2017,2,Racial/Ethnicity/Ancestry Bias
+39,39,9,6,Male,Unknown,20,Anti-Transgender,2017,2,Gender Identity Bias
+40,40,14,7,Male,Black,50,Anti-Transgender,2017,2,Gender Identity Bias
+41,41,17,8,Male,White,48,Anti-Islamic (Muslim),2017,2,Religious Bias
+42,42,18,9,Male,Black,30,Anti-Multi Religious Groups,2017,2,Religious Bias
+43,43,23,10,Male,White,12,Anti-Jewish,2017,2,Religious Bias
+44,44,23,11,Male,Black,12,Anti-Jewish,2017,2,Religious Bias
+45,45,23,12,Male,Black,30,Anti-Transgender,2017,2,Gender Identity Bias
+46,46,23,13,Male,Black,12,Anti-Jewish,2017,2,Religious Bias
+47,47,26,14,Male,Black,13,Anti-Transgender,2017,2,Gender Identity Bias
+48,48,26,15,Male,Black,14,Anti-Transgender,2017,2,Gender Identity Bias
+49,49,28,16,Female,Black,38,Anti-Jewish,2017,2,Religious Bias
+50,50,28,17,Male,White,39,Anti-Jewish,2017,2,Religious Bias
+51,51,41,18,Male,White,13,Anti-Islamic (Muslim),2017,2,Religious Bias
+52,52,42,19,Male,Black,22,Anti-Transgender,2017,2,Gender Identity Bias
+53,53,46,20,Male,Black,14,Anti-Transgender,2017,2,Gender Identity Bias
+54,54,48,21,Male,Black,24,Anti-Transgender,2017,2,Gender Identity Bias
+55,55,49,22,Male,Black,31,Anti-Islamic (Muslim),2017,2,Religious Bias
+56,56,60,23,Male,Black,37,Anti-Transgender,2017,2,Gender Identity Bias
+57,57,60,24,Male,Black,32,Anti-Transgender,2017,2,Gender Identity Bias
+58,58,61,25,Male,White,50,Anti-Black,2017,2,Racial/Ethnicity/Ancestry Bias
+59,59,61,26,Male,White,36,Anti-Islamic (Muslim),2017,2,Religious Bias
+60,60,61,27,Male,Black,12,Anti-Asian,2017,2,Racial/Ethnicity/Ancestry Bias
+61,61,63,28,Male,White,45,Anti-Jewish,2017,2,Religious Bias
+62,62,66,29,Male,White,27,Anti-Islamic (Muslim),2017,2,Religious Bias
+63,63,70,30,Male,Black,27,Anti-Jewish,2017,2,Religious Bias
+64,64,70,31,Male,Black,19,Anti-Islamic (Muslim),2017,2,Religious Bias
+65,65,70,32,Male,Black,28,Anti-Jewish,2017,2,Religious Bias
+66,66,71,33,Male,Unknown,18,Anti-Jewish,2017,2,Religious Bias
+67,67,71,34,Male,Black,37,Anti-Jewish,2017,2,Religious Bias
+68,68,75,35,Male,White,17,Anti-Islamic (Muslim),2017,2,Religious Bias
+69,69,75,36,Male,Black,26,Anti-Transgender,2017,2,Gender Identity Bias
+70,70,79,37,Male,Asian,79,Anti-Jewish,2017,2,Religious Bias
+71,71,84,38,Male,Black,27,Anti-Transgender,2017,2,Gender Identity Bias
+72,72,90,39,Male,White,15,Anti-Transgender,2017,2,Gender Identity Bias
+73,73,90,40,Female,White,20,Anti-Jewish,2017,2,Religious Bias
+74,74,90,41,Male,White,13,Anti-Transgender,2017,2,Gender Identity Bias
+75,75,103,42,Male,Black,35,Anti-Transgender,2017,2,Gender Identity Bias
+76,76,107,43,Male,Asian,21,Anti-Other Ethnicity,2017,2,Racial/Ethnicity/Ancestry Bias
+77,77,108,44,Female,White,28,Anti-Other Ethnicity,2017,2,Racial/Ethnicity/Ancestry Bias
+78,78,108,45,Male,White,52,Anti-Black,2017,2,Racial/Ethnicity/Ancestry Bias
+79,79,108,46,Male,White,29,Anti-Other Ethnicity,2017,2,Racial/Ethnicity/Ancestry Bias
+80,80,110,47,Female,White,28,Anti-Other Ethnicity,2017,2,Racial/Ethnicity/Ancestry Bias
+81,81,110,48,Male,White,29,Anti-Other Ethnicity,2017,2,Racial/Ethnicity/Ancestry Bias
+82,82,110,49,Male,White,23,Anti-Multi Religious Groups,2017,2,Religious Bias
+83,83,113,50,Male,Black,15,Anti-Islamic (Muslim),2017,2,Religious Bias
+84,84,114,51,Male,White,53,Anti-Transgender,2017,2,Gender Identity Bias
+85,85,115,52,Male,Asian,48,Anti-Transgender,2017,2,Gender Identity Bias
+86,86,115,53,Male,White,50,Anti-Other Ethnicity,2017,2,Racial/Ethnicity/Ancestry Bias
+87,87,1,1,Male,White,40,Anti-Other Religion,2017,3,Religious Bias
+88,88,6,2,Male,Hispanic,32,Anti-LGBT,2017,3,Sexual Orientation Bias
+89,89,9,3,Male,Black,26,Anti-LGBT,2017,3,Sexual Orientation Bias
+90,90,13,4,Male,Hispanic,28,Anti-Asian,2017,3,Racial/Ethnicity/Ancestry Bias
+91,91,14,5,Female,White,21,Anti-Islamic (Muslim),2017,3,Religious Bias
+92,92,19,6,Male,Black,38,Anti-Islamic (Muslim),2017,3,Religious Bias
+93,93,24,7,Male,Black,25,Anti-Islamic (Muslim),2017,3,Religious Bias
+94,94,30,8,Male,Hispanic,57,Anti-LGBT,2017,3,Sexual Orientation Bias
+95,95,44,9,Male,Hispanic,61,Anti-Jewish,2017,3,Religious Bias
+96,96,50,10,Male,Black,16,Anti-Jewish,2017,3,Religious Bias
+97,97,61,11,Male,White,25,Anti-Black,2017,3,Racial/Ethnicity/Ancestry Bias
+98,98,61,12,Male,White,27,Anti-Black,2017,3,Racial/Ethnicity/Ancestry Bias
+99,99,61,13,Male,White,40,Anti-Islamic (Muslim),2017,3,Religious Bias
+100,100,70,14,Male,Hispanic,37,Anti-Islamic (Muslim),2017,3,Religious Bias
+101,101,70,15,Male,Hispanic,38,Anti-Islamic (Muslim),2017,3,Religious Bias
+102,102,71,16,Male,Black,30,Anti-Jewish,2017,3,Religious Bias
+103,103,71,17,Male,Black,38,Anti-LGBT,2017,3,Sexual Orientation Bias
+104,104,77,18,Male,Black,56,Anti-Other Religion,2017,3,Religious Bias
+105,105,79,19,Male,Black,72,Anti-LGBT,2017,3,Sexual Orientation Bias
+106,106,81,20,Female,Black,37,Anti-LGBT,2017,3,Sexual Orientation Bias
+107,107,83,21,Female,Hispanic,36,Anti-LGBT,2017,3,Sexual Orientation Bias
+108,108,83,22,Male,Hispanic,37,Anti-Black,2017,3,Racial/Ethnicity/Ancestry Bias
+109,109,84,23,Male,Black,28,Anti-LGBT,2017,3,Sexual Orientation Bias
+110,110,90,24,Female,Black,36,Anti-LGBT,2017,3,Sexual Orientation Bias
+111,111,103,25,Male,Hispanic,50,Anti-LGBT,2017,3,Sexual Orientation Bias
+112,112,109,26,Male,Asian,15,Anti-Islamic (Muslim),2017,3,Religious Bias
+113,113,112,27,Male,White,40,Anti-Islamic (Muslim),2017,3,Religious Bias
+114,114,120,28,Male,Black,18,Anti-Hispanic,2017,3,Racial/Ethnicity/Ancestry Bias
+115,115,120,29,Male,Black,20,Anti-LGBT,2017,3,Sexual Orientation Bias
+116,116,120,30,Male,Black,24,Anti-LGBT,2017,3,Sexual Orientation Bias
+117,117,1,1,Male,Black,29,Anti-White,2017,4,Racial/Ethnicity/Ancestry Bias
+118,118,7,2,Male,White,29,Anti-White,2017,4,Racial/Ethnicity/Ancestry Bias
+119,119,13,3,Male,Black,24,Anti-Gender Non-Conforming,2017,4,Gender Identity Bias
+120,120,14,4,Male,Black,18,Anti-White,2017,4,Racial/Ethnicity/Ancestry Bias
+121,121,17,5,Female,Black,54,Anti-White,2017,4,Racial/Ethnicity/Ancestry Bias
+122,122,18,6,Male,White,23,Anti-Black,2017,4,Racial/Ethnicity/Ancestry Bias
+123,123,20,7,Male,White,22,Anti-White,2017,4,Racial/Ethnicity/Ancestry Bias
+124,124,34,8,Male,Black,14,Anti-LGBT,2017,4,Sexual Orientation Bias
+125,125,44,9,Male,Black,16,Anti-White,2017,4,Racial/Ethnicity/Ancestry Bias
+126,126,44,10,Male,Black,16,Anti-White,2017,4,Racial/Ethnicity/Ancestry Bias
+127,127,52,11,Male,White,41,Anti-Jewish,2017,4,Religious Bias
+128,128,61,12,Male,Black,16,Anti-Other Ethnicity,2017,4,Racial/Ethnicity/Ancestry Bias
+129,129,61,13,Male,White,25,Anti-Black,2017,4,Racial/Ethnicity/Ancestry Bias
+130,130,62,14,Male,White,28,Anti-Other Ethnicity,2017,4,Racial/Ethnicity/Ancestry Bias
+131,131,66,15,Male,Asian,37,Anti-Islamic (Muslim),2017,4,Religious Bias
+132,132,71,16,Male,Black,11,Anti-Jewish,2017,4,Religious Bias
+133,133,71,17,Female,White,26,Anti-Jewish,2017,4,Religious Bias
+134,134,72,18,Male,Asian,37,Anti-Islamic (Muslim),2017,4,Religious Bias
+135,135,75,19,Male,White,28,Anti-Other Religion,2017,4,Religious Bias
+136,136,79,20,Male,Black,18,Anti-Jewish,2017,4,Religious Bias
+137,137,81,21,Male,Black,39,Anti-Gender Non-Conforming,2017,4,Gender Identity Bias
+138,138,83,22,Male,Black,41,Anti-LGBT,2017,4,Sexual Orientation Bias
+139,139,83,23,Male,White,16,Anti-Islamic (Muslim),2017,4,Religious Bias
+140,140,84,24,Male,White,36,Anti-Black,2017,4,Racial/Ethnicity/Ancestry Bias
+141,141,94,25,Male,White,32,Anti-LGBT,2017,4,Sexual Orientation Bias
+142,142,102,26,Male,Black,34,Anti-White,2017,4,Racial/Ethnicity/Ancestry Bias
+143,143,104,27,Male,White,22,Anti-Other Religion,2017,4,Religious Bias
+144,144,104,28,Male,White,21,Anti-Other Religion,2017,4,Religious Bias
+145,145,104,29,Male,White,21,Anti-Other Religion,2017,4,Religious Bias
+146,146,107,30,Male,Black,28,Anti-Asian,2017,4,Racial/Ethnicity/Ancestry Bias
+147,147,112,31,Male,Black,39,Anti-Other Ethnicity,2017,4,Racial/Ethnicity/Ancestry Bias
+148,148,113,32,Male,White,57,Anti-Islamic (Muslim),2017,4,Religious Bias
+149,149,120,33,Female,White,38,Anti-Black,2017,4,Racial/Ethnicity/Ancestry Bias
+150,150,120,34,Female,White,44,Anti-Black,2017,4,Racial/Ethnicity/Ancestry Bias
+151,151,120,35,Female,White,38,Anti-LGBT,2017,4,Sexual Orientation Bias
+152,152,121,36,Male,White,57,Anti-Hispanic,2017,4,Racial/Ethnicity/Ancestry Bias
+153,153,122,37,Female,White,44,Anti-Black,2017,4,Racial/Ethnicity/Ancestry Bias
+154,154,123,38,Male,White,37,Anti-Jewish,2017,4,Religious Bias
+155,155,13,1,Male,Black,53,Anti-Male Homosexual (Gay),2018,1,Sexual Orientation Bias
+156,156,14,2,Male,White,25,Anti-Male Homosexual (Gay),2018,1,Sexual Orientation Bias
+157,157,17,3,Male,White,21,Anti-Jewish,2018,1,Religious Bias
+158,158,17,4,Male,White,21,Anti-Jewish,2018,1,Religious Bias
+159,159,18,5,Female,White,57,Anti-Other Ethnicity,2018,1,Racial/Ethnicity/Ancestry Bias
+160,160,18,6,Male,White,33,Anti-Islamic (Muslim),2018,1,Religious Bias
+161,161,19,7,Female,White,29,Anti-Jewish,2018,1,Religious Bias
+162,162,40,8,Male,Black,24,Anti-Other Ethnicity,2018,1,Racial/Ethnicity/Ancestry Bias
+163,163,41,9,Male,White,29,Anti-Male Homosexual (Gay),2018,1,Sexual Orientation Bias
+164,164,47,10,Female,Black,58,Anti-Other Religion,2018,1,Religious Bias
+165,165,66,11,Male,Black,54,Anti-Jewish,2018,1,Religious Bias
+166,166,67,12,Male,Black,45,Anti-Female Homosexual (Lesbian),2018,1,Sexual Orientation Bias
+167,167,71,13,Male,Black,36,Anti-Jewish,2018,1,Religious Bias
+168,168,71,14,Male,Black,34,Anti-Islamic (Muslim),2018,1,Religious Bias
+169,169,90,15,Male,White,18,Anti-Jewish,2018,1,Religious Bias
+170,170,110,16,Male,White,35,Anti-Transgender,2018,1,Gender Identity Bias
+171,171,111,17,Male,White,19,Anti-Jewish,2018,1,Religious Bias
+172,172,111,18,Male,Asian,26,Anti-Catholic,2018,1,Religious Bias
+173,173,120,19,Male,White,15,Anti-Hispanic,2018,1,Racial/Ethnicity/Ancestry Bias
+174,174,1,1,Male,Black,24,Anti-Jewish,2018,2,Religious Bias
+175,175,1,2,Male,Black,24,Anti-Jewish,2018,2,Religious Bias
+176,176,1,3,Male,Black,24,Anti-Jewish,2018,2,Religious Bias
+177,177,1,4,Male,Black,24,Anti-Jewish,2018,2,Religious Bias
+178,178,1,5,Female,Black,37,Anti-White,2018,2,Racial/Ethnicity/Ancestry Bias
+179,179,6,6,Female,White,58,Anti-Transgender,2018,2,Gender Identity Bias
+180,180,6,7,Male,White,44,Anti-Male Homosexual (Gay),2018,2,Sexual Orientation Bias
+181,181,10,8,Male,Black,49,Anti-Islamic (Muslim),2018,2,Religious Bias
+182,182,10,9,Male,Black,24,Anti-Jewish,2018,2,Religious Bias
+183,183,13,10,Male,Black,47,Anti-Hispanic,2018,2,Racial/Ethnicity/Ancestry Bias
+184,184,17,11,Male,Black,24,Anti-Jewish,2018,2,Religious Bias
+185,185,18,12,Male,White,23,Anti-Male Homosexual (Gay),2018,2,Sexual Orientation Bias
+186,186,18,13,Male,Unknown,32,Anti-Male Homosexual (Gay),2018,2,Sexual Orientation Bias
+187,187,24,14,Male,Hispanic,31,Anti-Jewish,2018,2,Religious Bias
+188,188,24,15,Male,White,30,Anti-Male Homosexual (Gay),2018,2,Sexual Orientation Bias
+189,189,26,16,Male,Black,39,Anti-Transgender,2018,2,Gender Identity Bias
+190,190,62,17,Male,Black,38,Anti-Arab,2018,2,Racial/Ethnicity/Ancestry Bias
+191,191,62,18,Male,White,69,Anti-Islamic (Muslim),2018,2,Religious Bias
+192,192,66,19,Female,Asian,24,Anti-Jewish,2018,2,Religious Bias
+193,193,66,20,Male,Black,20,Anti-Jewish,2018,2,Religious Bias
+194,194,71,21,Male,Black,12,Anti-Jewish,2018,2,Religious Bias
+195,195,71,22,Male,Black,40,Anti-Jewish,2018,2,Religious Bias
+196,196,71,23,Male,Black,19,Anti-Jewish,2018,2,Religious Bias
+197,197,71,24,Male,Black,20,Anti-Jewish,2018,2,Religious Bias
+198,198,71,25,Male,Black,28,Anti-Jewish,2018,2,Religious Bias
+199,199,71,26,Male,Black,71,Anti-Jewish,2018,2,Religious Bias
+200,200,71,27,Male,White,13,Anti-Jewish,2018,2,Religious Bias
+201,201,73,28,Male,Black,19,Anti-Hispanic,2018,2,Racial/Ethnicity/Ancestry Bias
+202,202,73,29,Male,Black,39,Anti-Male Homosexual (Gay),2018,2,Sexual Orientation Bias
+203,203,75,30,Female,Black,22,Anti-Islamic (Muslim),2018,2,Religious Bias
+204,204,79,31,Male,Black,31,Anti-White,2018,2,Racial/Ethnicity/Ancestry Bias
+205,205,79,32,Male,Black,61,Anti-Transgender,2018,2,Gender Identity Bias
+206,206,81,33,Male,Black,28,Anti-Male Homosexual (Gay),2018,2,Sexual Orientation Bias
+207,207,83,34,Male,White,33,Anti-Male Homosexual (Gay),2018,2,Sexual Orientation Bias
+208,208,83,35,Male,White,26,Anti-Male Homosexual (Gay),2018,2,Sexual Orientation Bias
+209,209,84,36,Male,Black,19,Anti-Male Homosexual (Gay),2018,2,Sexual Orientation Bias
+210,210,84,37,Male,Black,16,Anti-Male Homosexual (Gay),2018,2,Sexual Orientation Bias
+211,211,84,38,Male,Black,16,Anti-Male Homosexual (Gay),2018,2,Sexual Orientation Bias
+212,212,102,39,Male,White,20,Anti-Jewish,2018,2,Religious Bias
+213,213,103,40,Male,White,58,Anti-Black,2018,2,Racial/Ethnicity/Ancestry Bias
+214,214,114,41,Male,Asian,57,Anti-Male Homosexual (Gay),2018,2,Sexual Orientation Bias
+215,215,114,42,Male,White,16,Anti-Black,2018,2,Racial/Ethnicity/Ancestry Bias
+216,216,114,43,Male,White,16,Anti-Black,2018,2,Racial/Ethnicity/Ancestry Bias
+217,217,115,44,Male,White,55,Anti-Black,2018,2,Racial/Ethnicity/Ancestry Bias
+218,218,5,1,Male,White,29,Anti-Male Homosexual (Gay),2018,3,Sexual Orientation Bias
+219,219,6,2,Male,White,47,Anti-Islamic (Muslim),2018,3,Religious Bias
+220,220,9,3,Male,Black,42,Anti-Islamic (Muslim),2018,3,Religious Bias
+221,221,14,4,Male,Black,20,Anti-Transgender,2018,3,Gender Identity Bias
+222,222,18,5,Male,White,43,Anti-Other Religion,2018,3,Religious Bias
+223,223,23,6,Male,White,48,Anti-Black,2018,3,Racial/Ethnicity/Ancestry Bias
+224,224,32,7,Male,White,45,Anti-Mormon,2018,3,Religious Bias
+225,225,33,8,Male,Black,31,Anti-Male Homosexual (Gay),2018,3,Sexual Orientation Bias
+226,226,33,9,Male,Black,31,Anti-Male Homosexual (Gay),2018,3,Sexual Orientation Bias
+227,227,33,10,Male,White,42,Anti-Jewish,2018,3,Religious Bias
+228,228,33,11,Male,White,42,Anti-Jewish,2018,3,Religious Bias
+229,229,34,12,Male,Black,40,Anti-Male Homosexual (Gay),2018,3,Sexual Orientation Bias
+230,230,34,13,Male,White,42,Anti-Jewish,2018,3,Religious Bias
+231,231,34,14,Male,White,42,Anti-Jewish,2018,3,Religious Bias
+232,232,40,15,Female,Black,28,Anti-physical disability,2018,3,Disability Bias
+233,233,40,16,Male,White,53,Anti-Hispanic,2018,3,Racial/Ethnicity/Ancestry Bias
+234,234,60,17,Male,White,41,Anti-Asian,2018,3,Racial/Ethnicity/Ancestry Bias
+235,235,63,18,Male,Black,39,Anti-White,2018,3,Racial/Ethnicity/Ancestry Bias
+236,236,63,19,Male,Black,39,Anti-White,2018,3,Racial/Ethnicity/Ancestry Bias
+237,237,66,20,Male,Black,51,Anti-Jewish,2018,3,Religious Bias
+238,238,68,21,Male,White,36,Anti-Black,2018,3,Racial/Ethnicity/Ancestry Bias
+239,239,71,22,Male,Black,42,Anti-Other Ethnicity,2018,3,Racial/Ethnicity/Ancestry Bias
+240,240,71,23,Male,Black,39,Anti-White,2018,3,Racial/Ethnicity/Ancestry Bias
+241,241,72,24,Male,Black,59,Anti-Male Homosexual (Gay),2018,3,Sexual Orientation Bias
+242,242,75,25,Male,Black,20,Anti-Black,2018,3,Racial/Ethnicity/Ancestry Bias
+243,243,79,26,Male,Black,72,Anti-Male Homosexual (Gay),2018,3,Sexual Orientation Bias
+244,244,81,27,Male,Black,39,Anti-Islamic (Muslim),2018,3,Religious Bias
+245,245,84,28,Male,Black,39,Anti-White,2018,3,Racial/Ethnicity/Ancestry Bias
+246,246,90,29,Male,White,25,Anti-Male Homosexual (Gay),2018,3,Sexual Orientation Bias
+247,247,90,30,Male,White,25,Anti-Male Homosexual (Gay),2018,3,Sexual Orientation Bias
+248,248,106,31,Female,White,27,Anti-Other Ethnicity,2018,3,Racial/Ethnicity/Ancestry Bias
+249,249,110,32,Male,White,22,Anti-Transgender,2018,3,Gender Identity Bias
+250,250,122,33,Male,White,33,Anti-Asian,2018,3,Racial/Ethnicity/Ancestry Bias
+251,251,122,34,Male,White,26,Anti-Black,2018,3,Racial/Ethnicity/Ancestry Bias
+252,252,1,1,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+253,253,1,2,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+254,254,5,3,Male,White,57,Anti-Black,2018,4,Racial/Ethnicity/Ancestry Bias
+255,255,6,4,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+256,256,7,5,Male,White,37,Anti-Black,2018,4,Racial/Ethnicity/Ancestry Bias
+257,257,9,6,Male,White,58,Anti-Jewish,2018,4,Religious Bias
+258,258,13,7,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+259,259,14,8,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+260,260,17,9,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+261,261,18,10,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+262,262,18,11,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+263,263,18,12,Male,Black,44,Anti-Islamic (Muslim),2018,4,Religious Bias
+264,264,20,13,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+265,265,20,14,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+266,266,23,15,Male,White,39,Anti-Asian,2018,4,Racial/Ethnicity/Ancestry Bias
+267,267,23,16,Male,Black,24,Anti-Male Homosexual (Gay),2018,4,Sexual Orientation Bias
+268,268,25,17,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+269,269,25,18,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+270,270,25,19,Male,White,63,Anti-Jewish,2018,4,Religious Bias
+271,271,28,20,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+272,272,30,21,Female,Black,41,Anti-Other Ethnicity,2018,4,Racial/Ethnicity/Ancestry Bias
+273,273,32,22,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+274,274,34,23,Male,White,25,Anti-Jewish,2018,4,Religious Bias
+275,275,34,24,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+276,276,44,25,Male,Black,22,Anti-Other Ethnicity,2018,4,Racial/Ethnicity/Ancestry Bias
+277,277,47,26,Male,Black,41,Anti-Male Homosexual (Gay),2018,4,Sexual Orientation Bias
+278,278,47,27,Male,Black,41,Anti-Male Homosexual (Gay),2018,4,Sexual Orientation Bias
+279,279,47,28,Male,Black,35,Anti-Arab,2018,4,Racial/Ethnicity/Ancestry Bias
+280,280,50,29,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+281,281,52,30,Male,Black,28,Anti-Black,2018,4,Racial/Ethnicity/Ancestry Bias
+282,282,60,31,Male,White,36,Anti-Male Homosexual (Gay),2018,4,Sexual Orientation Bias
+283,283,60,32,Male,White,33,Anti-Male Homosexual (Gay),2018,4,Sexual Orientation Bias
+284,284,60,33,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+285,285,61,34,Male,Black,50,Anti-Male Homosexual (Gay),2018,4,Sexual Orientation Bias
+286,286,61,35,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+287,287,61,36,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+288,288,66,37,Male,Asian,37,Anti-Jewish,2018,4,Religious Bias
+289,289,66,38,Male,Hispanic,26,Anti-Jewish,2018,4,Religious Bias
+290,290,66,39,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+291,291,68,40,Female,Black,13,Anti-Islamic (Muslim),2018,4,Religious Bias
+292,292,68,41,Male,White,15,Anti-Black,2018,4,Racial/Ethnicity/Ancestry Bias
+293,293,70,42,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+294,294,71,43,Male,Black,18,Anti-Jewish,2018,4,Religious Bias
+295,295,76,44,Male,White,35,Anti-Jewish,2018,4,Religious Bias
+296,296,77,45,Male,White,26,Anti-Jewish,2018,4,Religious Bias
+297,297,77,46,Male,Black,26,Anti-Jewish,2018,4,Religious Bias
+298,298,78,47,Female,White,35,Anti-Transgender,2018,4,Gender Identity Bias
+299,299,78,48,Male,White,25,Anti-Transgender,2018,4,Gender Identity Bias
+300,300,79,49,Male,Black,32,Anti-Jewish,2018,4,Religious Bias
+301,301,84,50,Male,Black,18,Anti-Jewish,2018,4,Religious Bias
+302,302,84,51,Male,Black,17,Anti-Jewish,2018,4,Religious Bias
+303,303,90,52,Male,White,26,Anti-Jewish,2018,4,Religious Bias
+304,304,90,53,Male,White,26,Anti-Jewish,2018,4,Religious Bias
+305,305,90,54,Male,Black,26,Anti-Jewish,2018,4,Religious Bias
+306,306,90,55,Male,Black,26,Anti-Jewish,2018,4,Religious Bias
+307,307,90,56,Male,Black,26,Anti-Jewish,2018,4,Religious Bias
+308,308,90,57,Male,White,32,Anti-Jewish,2018,4,Religious Bias
+309,309,90,58,Male,White,28,Anti-Catholic,2018,4,Religious Bias
+310,310,112,59,Male,Black,54,Anti-Male Homosexual (Gay),2018,4,Sexual Orientation Bias
+311,311,120,60,Male,Black,14,Anti-White,2018,4,Racial/Ethnicity/Ancestry Bias
+312,312,5,1,Male,White,44,Anti-Islamic (Muslim),2019,1,Religious Bias
+313,313,9,2,Male,White,37,Anti-Male Homosexual (Gay),2019,1,Sexual Orientation Bias
+314,314,9,3,Male,White,51,Anti-Jewish,2019,1,Religious Bias
+315,315,18,4,Male,White,21,Anti-Male Homosexual (Gay),2019,1,Sexual Orientation Bias
+316,316,18,5,Male,White,23,Anti-Black,2019,1,Racial/Ethnicity/Ancestry Bias
+317,317,18,6,Male,Black,24,Anti-White,2019,1,Racial/Ethnicity/Ancestry Bias
+318,318,18,7,Male,White,25,Anti-Black,2019,1,Racial/Ethnicity/Ancestry Bias
+319,319,18,8,Male,White,28,Anti-Jewish,2019,1,Religious Bias
+320,320,20,9,Male,White,17,Anti-Jewish,2019,1,Religious Bias
+321,321,20,10,Male,White,17,Anti-Jewish,2019,1,Religious Bias
+322,322,30,11,Male,Black,38,Anti-Male Homosexual (Gay),2019,1,Sexual Orientation Bias
+323,323,48,12,Male,Black,37,Anti-White,2019,1,Racial/Ethnicity/Ancestry Bias
+324,324,48,13,Male,Black,37,Anti-White,2019,1,Racial/Ethnicity/Ancestry Bias
+325,325,48,14,Male,Black,37,Anti-White,2019,1,Racial/Ethnicity/Ancestry Bias
+326,326,60,15,Male,White,18,Anti-Jewish,2019,1,Religious Bias
+327,327,61,16,Male,White,34,Anti-Asian,2019,1,Racial/Ethnicity/Ancestry Bias
+328,328,61,17,Male,White,34,Anti-Asian,2019,1,Racial/Ethnicity/Ancestry Bias
+329,329,61,18,Male,White,34,Anti-Asian,2019,1,Racial/Ethnicity/Ancestry Bias
+330,330,67,19,Male,White,54,Anti-Hispanic,2019,1,Racial/Ethnicity/Ancestry Bias
+331,331,70,20,Male,Black,24,Anti-White,2019,1,Racial/Ethnicity/Ancestry Bias
+332,332,70,21,Male,Hispanic,34,Anti-Islamic (Muslim),2019,1,Religious Bias
+333,333,71,22,Male,Black,18,Anti-Jewish,2019,1,Religious Bias
+334,334,71,23,Male,Black,20,Anti-Jewish,2019,1,Religious Bias
+335,335,71,24,Male,Black,21,Anti-Jewish,2019,1,Religious Bias
+336,336,71,25,Male,Black,38,Anti-Jewish,2019,1,Religious Bias
+337,337,75,26,Male,White,37,Anti-Female Homosexual (Lesbian),2019,1,Sexual Orientation Bias
+338,338,75,27,Male,White,46,Anti-Black,2019,1,Racial/Ethnicity/Ancestry Bias
+339,339,75,28,Male,White,46,Anti-Black,2019,1,Racial/Ethnicity/Ancestry Bias
+340,340,79,29,Male,Black,41,Anti-Male Homosexual (Gay),2019,1,Sexual Orientation Bias
+341,341,81,30,Female,Black,23,Anti-Male Homosexual (Gay),2019,1,Sexual Orientation Bias
+342,342,81,31,Male,Black,28,Anti-Male Homosexual (Gay),2019,1,Sexual Orientation Bias
+343,343,84,32,Male,Unknown,16,Anti-Transgender,2019,1,Gender Identity Bias
+344,344,94,33,Male,White,28,Anti-Jewish,2019,1,Religious Bias
+345,345,94,34,Male,White,28,Anti-Jewish,2019,1,Religious Bias
+346,346,94,35,Male,White,28,Anti-Jewish,2019,1,Religious Bias
+347,347,94,36,Male,White,28,Anti-Jewish,2019,1,Religious Bias
+348,348,94,37,Male,White,28,Anti-Jewish,2019,1,Religious Bias
+349,349,94,38,Male,White,28,Anti-Jewish,2019,1,Religious Bias
+350,350,94,39,Female,Black,28,Anti-Jewish,2019,1,Religious Bias
+351,351,106,40,Female,Black,14,Anti-Islamic (Muslim),2019,1,Religious Bias
+352,352,107,41,Female,Asian,23,Anti-Male Homosexual (Gay),2019,1,Sexual Orientation Bias
+353,353,107,42,Male,Asian,21,Anti-Male Homosexual (Gay),2019,1,Sexual Orientation Bias
+354,354,110,43,Male,Black,23,Anti-Male Homosexual (Gay),2019,1,Sexual Orientation Bias
+355,355,110,44,Male,Black,23,Anti-Male Homosexual (Gay),2019,1,Sexual Orientation Bias
+356,356,112,45,Female,White,43,Anti-Transgender,2019,1,Gender Identity Bias
+357,357,112,46,Male,White,12,Anti-Jewish,2019,1,Religious Bias
+358,358,112,47,Male,Asian,13,Anti-Jewish,2019,1,Religious Bias
+359,359,112,48,Male,Asian,16,Anti-Jewish,2019,1,Religious Bias
+360,360,114,49,Male,Asian,24,Anti-Jewish,2019,1,Religious Bias
+361,361,1,1,Female,White,64,Anti-Islamic (Muslim),2019,2,Religious Bias
+362,362,5,2,Female,White,49,Anti-Hispanic,2019,2,Racial/Ethnicity/Ancestry Bias
+363,363,9,3,Male,White,37,Anti-Male Homosexual (Gay),2019,2,Sexual Orientation Bias
+364,364,9,4,Male,White,38,Anti-Male Homosexual (Gay),2019,2,Sexual Orientation Bias
+365,365,10,5,Male,White,52,Anti-Black,2019,2,Racial/Ethnicity/Ancestry Bias
+366,366,18,6,Male,White,28,Anti-Jewish,2019,2,Religious Bias
+367,367,24,7,Male,Black,22,Anti-White,2019,2,Racial/Ethnicity/Ancestry Bias
+368,368,28,8,Male,White,44,Anti-Jewish,2019,2,Religious Bias
+369,369,28,9,Male,White,44,Anti-Jewish,2019,2,Religious Bias
+370,370,33,10,Female,White,22,Anti-Hispanic,2019,2,Racial/Ethnicity/Ancestry Bias
+371,371,34,11,Male,White,22,Anti-Male Homosexual (Gay),2019,2,Sexual Orientation Bias
+372,372,40,12,Male,Black,23,Anti-White,2019,2,Racial/Ethnicity/Ancestry Bias
+373,373,42,13,Female,White,14,Anti-Islamic (Muslim),2019,2,Religious Bias
+374,374,42,14,Female,White,14,Anti-Islamic (Muslim),2019,2,Religious Bias
+375,375,42,15,Female,White,15,Anti-Islamic (Muslim),2019,2,Religious Bias
+376,376,61,16,Male,White,55,Anti-Islamic (Muslim),2019,2,Religious Bias
+377,377,61,17,Male,White,55,Anti-Islamic (Muslim),2019,2,Religious Bias
+378,378,68,18,Male,White,21,Anti-Male Homosexual (Gay),2019,2,Sexual Orientation Bias
+379,379,70,19,Male,White,41,Anti-Jewish,2019,2,Religious Bias
+380,380,70,20,Male,White,34,Anti-Islamic (Muslim),2019,2,Religious Bias
+381,381,71,21,Female,Black,52,Anti-Transgender,2019,2,Gender Identity Bias
+382,382,75,22,Male,White,46,Anti-Black,2019,2,Racial/Ethnicity/Ancestry Bias
+383,383,75,23,Male,White,46,Anti-Black,2019,2,Racial/Ethnicity/Ancestry Bias
+384,384,75,24,Male,White,37,Anti-Female Homosexual (Lesbian),2019,2,Sexual Orientation Bias
+385,385,81,25,Male,Black,26,Anti-Jewish,2019,2,Religious Bias
+386,386,84,26,Male,White,48,Anti-Islamic (Muslim),2019,2,Religious Bias
+387,387,88,27,Male,White,47,Anti-Jewish,2019,2,Religious Bias
+388,388,90,28,Male,Black,16,Anti-Jewish,2019,2,Religious Bias
+389,389,94,29,Male,White,28,Anti-Jewish,2019,2,Religious Bias
+390,390,94,30,Male,White,28,Anti-Jewish,2019,2,Religious Bias
+391,391,94,31,Male,White,28,Anti-Jewish,2019,2,Religious Bias
+392,392,94,32,Male,White,28,Anti-Jewish,2019,2,Religious Bias
+393,393,94,33,Male,White,28,Anti-Jewish,2019,2,Religious Bias
+394,394,94,34,Male,White,28,Anti-Jewish,2019,2,Religious Bias
+395,395,94,35,Male,White,28,Anti-Jewish,2019,2,Religious Bias
+396,396,94,36,Male,White,28,Anti-Jewish,2019,2,Religious Bias
+397,397,101,37,Male,Black,14,Anti-Jewish,2019,2,Religious Bias
+398,398,102,38,Male,Asian,37,Anti-Islamic (Muslim),2019,2,Religious Bias
+399,399,103,39,Male,White,55,Anti-Islamic (Muslim),2019,2,Religious Bias
+400,400,107,40,Female,Asian,23,Anti-Male Homosexual (Gay),2019,2,Sexual Orientation Bias
+401,401,107,41,Male,Asian,21,Anti-Male Homosexual (Gay),2019,2,Sexual Orientation Bias
+402,402,110,42,Female,White,24,Anti-Transgender,2019,2,Gender Identity Bias
+403,403,112,43,Female,White,43,Anti-Transgender,2019,2,Gender Identity Bias
+404,404,113,44,Male,Asian,61,Anti-Black,2019,2,Racial/Ethnicity/Ancestry Bias
